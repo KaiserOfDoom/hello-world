@@ -1,2 +1,5 @@
 # hello-world
-The first repository.
+
+Hi,
+
+Trying to do my best to start using GitHub. Hahahaha.
