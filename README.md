@@ -2,4 +2,4 @@
 
 Hi,
 
-Trying to do my best hahaha to start using GitHub.
+Trying to do my best to start using GitHub. Hahahaha.
